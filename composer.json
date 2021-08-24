@@ -1,0 +1,14 @@
+{
+    "name": "meduza-static-site-generator/meduza-plugin-resumizer",
+    "description": "Plugin para Meduza que identifica o resumo do conte\u0000do",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Everton da Rosa",
+            "email": "everton3x@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
