@@ -1,7 +1,7 @@
 {
     "name": "meduza-static-site-generator/meduza-plugin-resumizer",
     "description": "Plugin para Meduza que identifica o resumo do conte\u0000do",
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
