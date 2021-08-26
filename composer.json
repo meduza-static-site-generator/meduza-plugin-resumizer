@@ -1,14 +1,23 @@
 {
     "name": "meduza-static-site-generator/meduza-plugin-resumizer",
-    "description": "Plugin para Meduza que identifica o resumo do conte\u0000do",
-    "type": "library",
-    "license": "MIT",
+    "description": "Plugin para Meduza que identifica o resumo do conteudo",
+    "keywords": ["php8", "php", "static site generator", "static site", "plugin"],
+    "homepage": "https://github.com/meduza-static-site-generator/meduza-plugin-resumizer/",
+    "readme": "README.md",
     "authors": [
         {
             "name": "Everton da Rosa",
-            "email": "everton3x@gmail.com"
+            "email": "everton3x@gmail.com",
+            "homepage": "https://everton3x.github.io",
+            "role": "developer"
         }
     ],
+    "support": {
+        "issues": "https://github.com/meduza-static-site-generator/meduza-plugin-resumizer/issues",
+        "source": "https://github.com/meduza-static-site-generator/meduza-plugin-resumizer/"
+    },
+    "type": "library",
+    "license": "MIT",
     "minimum-stability": "dev",
     "require": {}
 }
